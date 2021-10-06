@@ -11,5 +11,6 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/Pablo-Valverde/auxfunctions',
+    packages='auxfunctions',
     license='GNU AGPLv3',
 )
