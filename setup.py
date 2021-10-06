@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='AuxFunctions',
-    version='0.0.3',
+    version='0.0.0',
     author='Pablo Valverde',
     description='Functions I usually used at my projects',
     long_description=long_description,
